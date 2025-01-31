@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.12.4%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.115.8-blue.svg)](https://fastapi.tiangolo.com/)
-[![Yandex Search API](https://img.shields.io/badge/Yandex_Search_API-XML--based-orange.svg)](https://yandex.com/dev/xml/)
+[![Yandex Search API](https://img.shields.io/badge/Yandex_Search_API-XML--based-orange.svg)](https://yandex.cloud/ru/docs/search-api/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-v4.12.3-green.svg)](https://www.crummy.com/software/BeautifulSoup/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-blue.svg)](https://openai.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-v2.10.6-blue.svg)](https://pydantic-docs.helpmanual.io/)
